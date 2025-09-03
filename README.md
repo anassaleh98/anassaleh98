@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Anas Saleh
 🎯 **Machine Learning Engineer | Data Scientist | Competitive Programmer**  
+
 Passionate about building efficient, AI-driven solutions to real-world problems.  
 Skilled in developing ML pipelines, deep learning models, and deploying applications.
 ---
 ## 🛠️ Skills
+
 - **Programming Languages:** Python, C++, Java  
 - **ML Frameworks:** PyTorch, Scikit-learn  
 - **Data Tools:** Pandas, NumPy, SQL  
