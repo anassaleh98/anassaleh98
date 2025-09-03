@@ -14,7 +14,6 @@ Skilled in developing ML pipelines, deep learning models, and deploying applicat
 - **Software Development:** Algorithms, Data Structures, OOP  
 - **Web & Deployment:** Flask  
 - **Tools:** Git, GitHub
-- 
 ---
 
 ## 🔗 Connect with Me
