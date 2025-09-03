@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Anas Saleh
 
-<!--
-**anassaleh98/anassaleh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Machine Learning Engineer | Data Scientist | Competitive Programmer**  
+Passionate about building efficient, AI-driven solutions to real-world problems.  
+Skilled in developing ML pipelines, deep learning models, and deploying applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Programming Languages:** Python, C++, Java  
+- **ML Frameworks:** PyTorch, Scikit-learn  
+- **Data Tools:** Pandas, NumPy, SQL  
+- **Visualization:** Matplotlib, Seaborn  
+- **Software Development:** Algorithms, Data Structures, OOP  
+- **Web & Deployment:** Flask  
+- **Tools:** Git, GitHub  
+---
+
+## 🔗 Connect with Me
+📧 anassaleh3366@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anas-saleh-019a89206)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/anassaleh98)
