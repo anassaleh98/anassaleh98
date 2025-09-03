@@ -16,6 +16,21 @@ Skilled in developing ML pipelines, deep learning models, and deploying applicat
 - **Tools:** Git, GitHub  
 ---
 
+## 🚀 Featured Projects
+🔹 [**Group Activity Recognition**](https://github.com/anassaleh98/Group-Activity-Recognition) – Implemented a hierarchical deep temporal model (ResNet50 + LSTM) for activity recognition. Achieved **86.6% accuracy**.  
+
+🔹 [**End-to-End Fraud Detection System**](https://github.com/anassaleh98/end-to-end-fraud-detection-system) – Full-stack ML system with ensemble models (XGBoost, CatBoost, RF). Deployed via Flask. Achieved **88.6% Recall**.  
+
+🔹 [**InOut Counter YOLOv8**](https://github.com/anassaleh98/YOLO-Projects) – Real-time people counting with YOLOv8 and OpenCV, including custom tracking and zone-based entry/exit detection.  
+
+🔹 [**Taxi Trip Duration Prediction**](https://github.com/anassaleh98/Machine-learning-projects) – Ridge Regression pipeline for NYC taxi trip prediction. Achieved **71.5% accuracy**.  
+
+🔹 [**FIFA World Cup 2022 Predictions**](https://github.com/anassaleh98/Machine-learning-projects) – Logistic Regression model to predict match outcomes.  
+
+🔹 [**Titanic Survival Prediction**](https://github.com/anassaleh98/Machine-learning-projects) – Feature engineering + ML models (KNN, SVM, MLP) for passenger survival classification.  
+
+---
+
 ## 🔗 Connect with Me
 📧 anassaleh3366@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anas-saleh-019a89206)  
