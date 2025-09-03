@@ -8,7 +8,7 @@ Skilled in developing ML pipelines, deep learning models, and deploying applicat
 
 ## 🛠️ Skills
 - **Programming Languages:** Python, C++, Java  
-- **ML Frameworks:** PyTorch, Scikit-learn  
+- **ML Frameworks:** PyTorch, TensorFlow, Scikit-learn  
 - **Data Tools:** Pandas, NumPy, SQL  
 - **Visualization:** Matplotlib, Seaborn  
 - **Software Development:** Algorithms, Data Structures, OOP  
