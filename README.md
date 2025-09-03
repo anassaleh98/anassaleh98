@@ -6,13 +6,15 @@ Skilled in developing ML pipelines, deep learning models, and deploying applicat
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, C++, Java, SQL  
-- **ML/DL:** PyTorch, Scikit-learn, TensorFlow  
-- **Computer Vision:** OpenCV, YOLO (v5/v8)  
-- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Deployment:** Flask, Git/GitHub  
-
+## 🛠️ Skills
+- **Programming Languages:** Python, C++, Java  
+- **ML Frameworks:** PyTorch, Scikit-learn  
+- **Data Tools:** Pandas, NumPy, SQL  
+- **Visualization:** Matplotlib, Seaborn  
+- **Software Development:** Algorithms, Data Structures, OOP  
+- **Web & Deployment:** Flask  
+- **Tools:** Git, GitHub
+- 
 ---
 
 ## 🔗 Connect with Me
