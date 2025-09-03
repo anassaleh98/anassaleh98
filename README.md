@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anas Saleh
 
-🎯 **Machine Learning Engineer | Deep Learning & Computer Vision Enthusiast**  
+🎯 **Machine Learning Engineer | Data Scientist | Competitive Programmer**  
 Passionate about building efficient, AI-driven solutions to real-world problems.  
 Skilled in developing ML pipelines, deep learning models, and deploying applications.
 
