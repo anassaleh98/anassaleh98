@@ -1,19 +1,20 @@
 # 👋 Hi, I'm Anas Saleh
-🎯 **Machine Learning Engineer | Data Scientist | Competitive Programmer**  
 
+🎯 **Machine Learning Engineer | Deep Learning & Computer Vision Enthusiast**  
 Passionate about building efficient, AI-driven solutions to real-world problems.  
 Skilled in developing ML pipelines, deep learning models, and deploying applications.
----
-## 🛠️ Skills
 
-- **Programming Languages:** Python, C++, Java  
-- **ML Frameworks:** PyTorch, Scikit-learn  
-- **Data Tools:** Pandas, NumPy, SQL  
-- **Visualization:** Matplotlib, Seaborn  
-- **Software Development:** Algorithms, Data Structures, OOP  
-- **Web & Deployment:** Flask  
-- **Tools:** Git, GitHub  
 ---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, Java, SQL  
+- **ML/DL:** PyTorch, Scikit-learn, TensorFlow  
+- **Computer Vision:** OpenCV, YOLO (v5/v8)  
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Deployment:** Flask, Git/GitHub  
+
+---
+
 ## 🔗 Connect with Me
 📧 anassaleh3366@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anas-saleh-019a89206)  
