@@ -18,6 +18,6 @@ Skilled in developing ML pipelines, deep learning models, and deploying applicat
 
 ## 🔗 Connect with Me
 📧 anassaleh3366@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anas-saleh-019a89206)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/anassaleh98)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/anassaleh98)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anas-saleh-019a89206)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/anassaleh98)  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/anassaleh98)  
+
+
